@@ -24,7 +24,7 @@
 
 3. 选择「安装扩展」
 
-4. 复制粘贴此链接：<https://github.com/SpicyMarinara/rpg-companion-sillytavern>
+4. 复制粘贴此链接：<https://github.com/popoloy/rpg-companion-sillytavern>
 
 5. 点击「为所有用户安装」或「仅为我安装」
 
